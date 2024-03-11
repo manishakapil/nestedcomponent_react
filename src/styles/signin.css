@@ -1,0 +1,28 @@
+.signin-image{
+    width: 111%;
+    height: 800px;
+}
+
+.app-title{
+    text-align: center;
+}
+
+.login-subheading{
+    text-align: center;
+}
+
+.continue-with-text{
+    text-align: center;
+}
+
+.google-login-container {
+    display: flex; /* Enable flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically (optional) */
+}
+
+.form-narrow-centered {
+    width: 400px; /* Adjust width as needed */
+    margin: 0 auto;
+}
+
